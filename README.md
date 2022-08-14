@@ -13,7 +13,9 @@ The purpose of this analysis is to pull the temperature data for the island of O
 * The results show the average temperature for June is only 3 degrees warmer than the average temperature for December
   - 74.9 degrees vs 71.0 degrees
 * The minimum temperatures were slightly farther apart with Junes lowest temperature being 8 degrees higher than Decembers lowest temperature
+  - 64.0 degrees vs 56.0 degrees
 * In comparison the highest temperatures only differed by 2 degrees
+ - 85.0 degrees vs 83.0 degrees
  
 ![image](https://user-images.githubusercontent.com/107161421/184517954-40a67d7b-0a95-46d3-aa62-31e423a4f8f4.png)
 ![image](https://user-images.githubusercontent.com/107161421/184517962-b10cf036-cee2-44a9-8c12-12cf83ad0005.png)
